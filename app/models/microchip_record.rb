@@ -1,0 +1,2 @@
+class MicrochipRecord < ApplicationRecord
+end

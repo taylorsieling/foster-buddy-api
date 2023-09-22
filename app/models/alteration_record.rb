@@ -1,0 +1,2 @@
+class AlterationRecord < ApplicationRecord
+end

@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  theme: MyString
+  intake_date: 2023-09-21 19:49:04
+  intake_time: 2023-09-21 19:49:04
+  intake_type: MyString
+
+two:
+  theme: MyString
+  intake_date: 2023-09-21 19:49:04
+  intake_time: 2023-09-21 19:49:04
+  intake_type: MyString
