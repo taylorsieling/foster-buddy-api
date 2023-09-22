@@ -1,4 +1,4 @@
 class Address < ApplicationRecord
   belongs_to :litter
-  belongs_to :foster, through: :litter
+  belongs_to :foster
 end

@@ -1,5 +1,5 @@
 class Litter < ApplicationRecord
   belongs_to :user
   has_many :fosters
-  has_one :address_found
+  has_one :address
 end
